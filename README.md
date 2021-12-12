@@ -1,20 +1,20 @@
 # DBMNet
-The pytorch implementation of [**Dual-Branch Meta-learning Network with Distribution Alignment for Face Anti-spoofing**]().
+The pytorch implementation of [**Dual-Branch Meta-learning Network with Distribution Alignment for Face Anti-spoofing**](https://ieeexplore.ieee.org/document/9646915/keywords#keywords).
 
 The motivation of the proposed DBMNet method:
 <div align=center>
-<img src="https://github.com/taylover-pei/DBMNet-TIFS-temp/tree/main/article/Motivation.png" width="500" height="200" />
+<img src="https://github.com/taylover-pei/DBMNet-TIFS/tree/main/article/Motivation.png" width="500" height="200" />
 </div>
 
 The network architecture of the proposed DBMNet method:
 <div align=center>
-<img src="https://github.com/taylover-pei/DBMNet-TIFS-temp/tree/main/article/Architecture.png" width="700" height="345" />
+<img src="https://github.com/taylover-pei/DBMNet-TIFS/tree/main/article/Architecture.png" width="700" height="345" />
 </div>
 
 An overview of the proposed DBMNet method:
 
 <div align=center>
-<img src="https://github.com/taylover-pei/DBMNet-TIFS-temp/tree/main/article/Overview.png" width="400" height="300" />
+<img src="https://github.com/taylover-pei/DBMNet-TIFS/tree/main/article/Overview.png" width="400" height="300" />
 </div>
 
 ## Congifuration Environment
