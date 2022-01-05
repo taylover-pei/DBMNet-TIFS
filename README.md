@@ -401,12 +401,14 @@ To be specific, we only release the code and provide the comparison results in o
 ## Citation
 Please cite our paper if the code is helpful to your research.
 ```
-@InProceedings{Jia_2021_TIFS_DBMNet,
-    author = {Yunpei Jia and Jie Zhang and Shiguang Shan},
-    journal={IEEE Transactions on Information Forensics and Security},
-    title = {Dual-Branch Meta-learning Network with Distribution Alignment for Face Anti-spoofingg},
-    year = {2021}
-}
+@ARTICLE{9646915,  
+   author={Jia, Yunpei and Zhang, Jie and Shan, Shiguang},  
+   journal={IEEE Transactions on Information Forensics and Security},   
+   title={Dual-Branch Meta-Learning Network With Distribution Alignment for Face Anti-Spoofing},   
+   year={2022},  
+   volume={17},
+   pages={138-151},  
+   doi={10.1109/TIFS.2021.3134869}}
 ```
 
 
